@@ -38,9 +38,10 @@ dataset/
 Base de dados utilizada nos experimentos.
 
 ```
-resultados/
+docs/
 ```
-Resultados experimentais.
+
+Documentação do projeto, resultados experimentais e demais arquivos utilizados na apresentação.
 
 ```
 slides/
