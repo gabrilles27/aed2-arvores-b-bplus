@@ -1,6 +1,8 @@
-# aed2-arvores-b-bplus
+# Comparação entre Árvores B e Árvores B+
 
-# AED II – Comparação entre Árvores B e Árvores B+
+Projeto desenvolvido para a disciplina **Algoritmos e Estruturas de Dados II (AED II)** da Universidade Federal do ABC (UFABC).
+
+---
 
 ## Grupo 9
 
@@ -12,39 +14,44 @@
 - Ana Beatriz de Andrade Bordão
 - Vitor Zattoni Fairbanks Mendes
 
+---
+
 ## Objetivo
 
-Este projeto implementa uma aplicação utilizando Árvores B e Árvores B+ para indexação de registros em arquivo, realizando uma comparação teórica e prática entre as duas estruturas.
+Este projeto implementa uma aplicação utilizando Árvores B e Árvores B+ para indexação de registros em arquivos, realizando uma comparação teórica e prática entre as duas estruturas de dados.
 
-Foram avaliados:
+Os experimentos avaliam:
 
 - Inserção
 - Remoção
 - Busca pontual
-- Busca por intervalo (Range Search)
+- Busca por intervalo (*Range Search*)
 - Tempo de execução
 - Consumo de memória
 
-## Estrutura do projeto
+---
 
+## Estrutura do projeto
 
 ```
 src/
 ```
-Implementação das Árvores B e B+ e programas de teste.
 
+Implementação das Árvores B e Árvore B+, além dos programas utilizados nos experimentos.
 
 ```
 dataset/
 ```
-Base de dados utilizada nos experimentos.
 
+Base de dados utilizada nos testes.
 
 ```
 docs/
 ```
-Documentação do projeto, resultados experimentais e demais arquivos utilizados na apresentação.
 
+Documentação do projeto, apresentação, resultados experimentais e demais arquivos auxiliares.
+
+---
 
 ## Linguagem
 
