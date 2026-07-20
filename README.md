@@ -27,26 +27,24 @@ Foram avaliados:
 
 ## Estrutura do projeto
 
+
 ```
 src/
 ```
 Implementação das Árvores B e B+ e programas de teste.
+
 
 ```
 dataset/
 ```
 Base de dados utilizada nos experimentos.
 
+
 ```
 docs/
 ```
-
 Documentação do projeto, resultados experimentais e demais arquivos utilizados na apresentação.
 
-```
-slides/
-```
-Slides da apresentação.
 
 ## Linguagem
 
